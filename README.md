@@ -5,6 +5,8 @@ A sleek and modern **Food Delivery Platform** built with **ReactJS**. This app o
 🔗 **Live Demo:** [frontend-ebon-one.vercel.app](https://frontend-ebon-one.vercel.app/)
 
 ---
+![Screenshot 2025-03-30 084501](https://github.com/user-attachments/assets/8d17bff2-2208-4fa2-b8ba-e553776c0774)
+
 
 ## 🚀 Features
 
